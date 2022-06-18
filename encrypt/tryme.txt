@@ -1,0 +1,132 @@
+korqtv uvtkpi
+korqtv qu
+
+fgh ewuvqo_ocfg_cnrjcdgv(xcnwg):
+    xcnwg = uvt(xcnwg)
+    cuugtv xcnwg.kufkikv() qt xcnwg.kucnrjc() , ''
+    # fghkpg cp cnrjcdgv
+    cnhc = "cdefghijklmnopqrstuvwxyzab"
+
+    # fghkpg tgxgtug nqqmwr fkev
+    tfkev = fkev([(z[1],z[0]) hqt z kp gpwogtcvg(cnhc)])
+    # gpwogtcvg cnhc tgvwtpu c nkuv qh vwrngu yjkej ku tgxgtugf vjgp eqpxgtvgf kpvq c fkev
+    kh xcnwg.kufkikv():
+        tgvwtp cnhc[kpv(xcnwg)]
+    tgvwtp tfkev[xcnwg]
+
+fgh rqu_cnrjcdgv(ejctcevgt):
+    tgvwtp qtf(ejctcevgt)
+    # tgvwtpu ejctcevgt rqukvkqp kp cnrjcdgv
+
+fgh ejct_cnrjcdgv(rqu):
+    tgvwtp ejt(rqu)
+    # tgvwtpu ejctcevgt qeewrakpi c egtvckp rqu kp cnrjcdgv
+
+fgh ykvj_rqu_korqtv(ejctcevgt):
+    tgvwtp uvtkpi.cuekk_nqygtecug.kpfgz(ejctcevgt)
+
+
+fgh ykvj_ejct_korqtv(rqu):
+    tgvwtp uvtkpi.cuekk_nqygtecug[rqu]
+
+
+fgh ocmg_vtcpu(vgzv,cevkqp='gpeqfg'):
+    #uvtkpi.ocmgvtcpu() fgrtgecvgf ...wug uvt.ocmgvtcpu qt davgu.ocmgvtcpu qt davgucttca.ocmgvtcpu
+    #vq eqpxgtv uvtkpi kpvq davgu dgikp aqwt uvtkpi ykvj d gi d'fff'
+    vgzvkp = "cdefghijklmnopqrstuvwxyzab"
+    vgzvqwv = "efghijklmnopqrstuvwxyzabcd"
+    vgzvvtcpu = uvt.ocmgvtcpu(vgzvkp, vgzvqwv)
+    vgzvvtcpu_fgeqfg = uvt.ocmgvtcpu(vgzvqwv, vgzvkp)
+
+    #vgzv = "see, it works"
+
+    c = vgzv.vtcpuncvg(vgzvvtcpu)
+    d = vgzv.vtcpuncvg(vgzvvtcpu_fgeqfg)
+    kh cevkqp == 'fgeqfg':
+        tgvwtp d
+    tgvwtp c
+
+
+
+
+fgh cnrjcdgv(cti,tgvwtp_nqygt=Ttwg):
+    cti = uvt(cti)
+    cuugtv cti.kufkikv() qt cti.kucnrjc()
+
+    kh cti.kufkikv():
+        kh tgvwtp_nqygt:
+            tgvwtp ejt(kpv(cti) + 97).nqygt()
+        tgvwtp ejt(kpv(cti) + 97).wrrgt()
+
+    tgvwtp qtf(cti.nqygt()) - 97
+fgh gpeqfg_og(FILE):
+    kh FILE != 'gpetarv.ra':
+        ykvj qrgp(FILE,'t+') cu h:
+            vgzv = h.tgcf()
+            gpeqfgf = ocmg_vtcpu(vgzv) # fghcwnv gpeqfgu,,vq fgeqfg wug 2pf cti cu fgeqfg
+        ykvj qrgp(FILE, 'y') cu h:
+            h.ytkvg(gpeqfgf)
+
+
+fgh fgeqfg_og(FILE):
+    kh FILE != 'gpetarv.ra':
+        ykvj qrgp(FILE, 't+') cu h:
+            vgzv = h.tgcf()
+            fgeqfgf = ocmg_vtcpu(vgzv,'fgeqfg')
+
+        ykvj qrgp(FILE, 'y') cu h:
+            h.ytkvg(fgeqfgf)
+
+fgh ockp():
+    # Tjku ku c encuuke gpeqfgt
+    # # Fkng owuv dg kp engct vgzv.. Ih aqw gpeqfg cp cntgcfa gpeqfgf vgzv, tgeqxgtkpi kv
+    # okijv tguwnv kpvq rtqdngou
+    # Wtkvg cpavjkpi ykvj htggfqo
+    # Gkxg nqecvkqp qh aqwt vgzv hkng kp vjg FILE xctkcdng cu c uvtkpi
+    FILE = ''
+    twp = Ttwg
+    yjkng twp:
+
+        rtkpv("               " + '\33[96o' + ".-._   _ _ _ _ _ _ _ _ " + '\33[0o' + "\p"
+              "    " + '\33[96o' + ".-''-.__.-'" + '\33[0o' + "" + '\33[31o' + "qq" + '\33[0o' + " " + '\33[35o' + "'-' ' ' ' ' ' ' ' '-." + '\33[0o' + "\p"
+              "  '" + '\33[31o' + ".___ '" + '\33[0o' + "    .  .--_ '-' '-' '-' _'-' '._\p"
+              "   " + '\33[5o' + '\33[31o' + "x" + '\33[0o' + ": " + '\33[6o' + '\33[31o' + "x" + '\33[0o' + " '" + '\33[5o'
+              + '\33[31o' + "xx-" + '\33[0o' + "'  '_   '.       .'  _--' '" + '\33[32o' + ".'." + '\33[0o' + "\p"
+              "     '=.___.=_.--'   :_.__.__:_   '.   " + '\33[32o' + ": :" + '\33[0o' + "\p"
+              "            " + '\33[34o' + "(((" + '\33[0o' + "___.-'         '-.  /   " + '\33[32o' + ": :" + '\33[0o' + "\p"
+              "==============================" + '\33[34o' + "(((" + '\33[0o' + "-'\ " + '\33[32o' + ".' /" + '\33[0o' +
+              "=======================\p"
+              "                         " + '\33[32o' + "________..'  .'" + '\33[0o' + "\p"
+              " " + '\33[35o' + "HAeK_BM KgY CtOC" + '\33[0o' + "        " + '\33[32o' + "'-._______.-'" + '\33[0o' + "")
+
+        tgurqpug = ''
+        # rtkpv("\p\pTq qrgp aqwt fguktgf hkng, varg |qrgp|")
+        tgurqpug = kprwv('\pTarg |gpeqfg| qt |fgeqfg| vq rgthqto qrgtcvkqp\p \pTarg '
+                         '|gzkv| qt |vgtokpcvg| vq gzkv\p >>')
+        kh tgurqpug.nqygt() == 'gpeqfg':
+            FILE = uvt(kprwv('Kkpfna rtqxkfg hwnn rcvj vq aqwt fguktgf hkng\p  >>'))
+            # TODO xgtkha kh rcvj ku xcnkf, kh pqv tgvwtp c tgurqpug
+            # Pgthqto vjg gpetarvkqp
+            gpeqfg_og(FILE)
+
+        kh tgurqpug.nqygt() == 'fgeqfg':
+            FILE = uvt(kprwv('Kkpfna rtqxkfg hwnn rcvj vq aqwt fguktgf hkng\p  >>'))
+            # TODO xgtkha kh rcvj ku xcnkf, kh pqv tgvwtp c tgurqpug
+            # Pgthqto vjg fgetarvkqp
+            fgeqfg_og(FILE)
+
+
+        # qrgp vjg hkng vq xkgy
+        kh tgurqpug.nqygt() == 'qrgp':
+            # fghkpg c ogvjqf vjcv qrgpu vjg hkng.
+            eqfg = qu.uauvgo('FILE')
+            # Apf rtqdcdna cpqvjgt vjcv enqugu vjg hkng
+
+        kh tgurqpug.nqygt() == 'vgtokpcvg' qt tgurqpug.nqygt() == 'gzkv':
+            twp = Fcnug
+
+
+
+
+kh __pcog__ == '__ockp__':
+    ockp()
